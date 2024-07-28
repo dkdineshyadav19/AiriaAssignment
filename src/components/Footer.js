@@ -8,7 +8,7 @@ export default function Footer() {
       >
         <div className="tw-flex tw-justify-between tw-items-center md:tw-gap-0 tw-gap-2 tw-mt-1 md:tw-mt-4">
           <div>
-            <img src="/logo_landing.svg" alt="" className="logo" />
+            <img src="./logo_landing.svg" alt="" className="logo" />
           </div>
           <div className="tw-flex md:tw-gap-8 tw-gap-2 tw-items-center">
             <div className="listext tw-cursor-pointer">How it works</div>

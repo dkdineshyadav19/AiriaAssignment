@@ -62,7 +62,7 @@ export default function Working() {
                                     as easy as Get.Set.Go.</p>
                                 <div
                                     className="lg:tw-w-96 tw-w-64 lg:tw-h-[22.5rem] md:tw-h-56 lg:tw-top-0 tw-bottom-0 tw-absolute tw-right-0">
-                                    <img src="/Group_6829.svg"
+                                    <img src="./Group_6829.svg"
                                         alt="" className="tw-w-full tw-h-full"/></div>
                             </div>
                             <div className="lg:tw-w-2/5 lg:tw-mb-0 tw-mb-6 exp-box tw-relative aos-init"
@@ -71,7 +71,7 @@ export default function Working() {
                                 <p className="r-text">Integrates smoothly with all tech stacks and server
                                     infrastructure</p>
                                 <div className="tw-w-64 tw-h-44 tw-absolute tw-bottom-0 tw-right-0"><img
-                                        src="/ioe.png" alt=""
+                                        src="./ioe.png" alt=""
                                         className="tw-w-full"/></div>
                             </div>
                         </div>
@@ -83,7 +83,7 @@ export default function Working() {
                                 <p className="r-text">Optmised to perform with your <br/>growing needs for tomorrow
                                 </p>
                                 <div className="tw-w-64 tw-h-48 tw-absolute tw-bottom-1 tw-right-0"><img
-                                        src="/Frame_scalable.png" alt=""
+                                        src="./Frame_scalable.png" alt=""
                                         className="tw-w-full tw-h-full"/></div>
                             </div>
                             <div className="lg:tw-w-1/3 lg:tw-mb-0 tw-mb-6 exp-box tw-relative aos-init"
@@ -91,7 +91,7 @@ export default function Working() {
                                 <p className="e-text">Dive Deeper</p>
                                 <p className="r-text">Fusce lorem ligula, volutpat sit amet ex in, tincidunt sagittis ex. Cras nisi orci, </p>
                                 <div className="tw-w-64 tw-h-48 tw-absolute tw-bottom-1 tw-right-0"><img
-                                        src="/Group_dive_deeper.png" alt=""
+                                        src="./Group_dive_deeper.png" alt=""
                                         className="tw-w-full tw-h-full"/></div>
                             </div>
                             <div className="lg:tw-w-1/3 lg:tw-mb-0 tw-mb-6 exp-box tw-relative aos-init"
@@ -99,7 +99,7 @@ export default function Working() {
                                 <p className="e-text">Access Controls </p>
                                 <p className="r-text">Fusce lorem ligula, volutpat sit amet ex in, tincidunt sagittis ex. Cras nisi orci,  </p>
                                 <div className="tw-w-64 tw-h-48 tw-absolute tw-bottom-1 tw-right-0"><img
-                                        src="/Frame_controls.png" alt=""
+                                        src="./Frame_controls.png" alt=""
                                         className="tw-w-full tw-h-full"/></div>
                             </div>
                         </div>

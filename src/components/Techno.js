@@ -18,7 +18,7 @@ export default function Techno() {
         </div>
         <div className="lg:tw-w-3/5 lg:tw-ml-40  tw-h-[350px]">
             <div className="md:tw-w-[22rem] tw-w-64 lg:tw-mt-5 tw-mt-8 lg:tw-mx-0 tw-mx-auto"><img
-                    src="/Frame.svg" alt=""
+                    src="./Frame.svg" alt=""
                     className="tw-w-full"/></div>
         </div>
     </div>
