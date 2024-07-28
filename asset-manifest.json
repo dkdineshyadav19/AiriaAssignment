@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AiriaAssignment/static/css/main.a9e2c330.css",
-    "main.js": "/AiriaAssignment/static/js/main.1120aec7.js",
+    "main.js": "/AiriaAssignment/static/js/main.efe991b7.js",
     "static/js/453.bd94f33f.chunk.js": "/AiriaAssignment/static/js/453.bd94f33f.chunk.js",
     "static/media/background.png": "/AiriaAssignment/static/media/background.2f7680b067627dc97a29.png",
     "static/media/bottom_banner.jpg": "/AiriaAssignment/static/media/bottom_banner.dba7cac6dde22ceecb22.jpg",
@@ -9,11 +9,11 @@
     "index.html": "/AiriaAssignment/index.html",
     "static/media/Ellipse.svg": "/AiriaAssignment/static/media/Ellipse.17f557d33df70aa7b009.svg",
     "main.a9e2c330.css.map": "/AiriaAssignment/static/css/main.a9e2c330.css.map",
-    "main.1120aec7.js.map": "/AiriaAssignment/static/js/main.1120aec7.js.map",
+    "main.efe991b7.js.map": "/AiriaAssignment/static/js/main.efe991b7.js.map",
     "453.bd94f33f.chunk.js.map": "/AiriaAssignment/static/js/453.bd94f33f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9e2c330.css",
-    "static/js/main.1120aec7.js"
+    "static/js/main.efe991b7.js"
   ]
 }
