@@ -10,7 +10,7 @@ export default function hero() {
             <div className="header-section">
               <div className="tw-flex tw-items-center tw-justify-between">
                 <div>
-                  <img src="/logo_landing.svg" alt="" className="logo" />
+                  <img src="./public/logo_landing.svg" alt="" className="logo" />
                 </div>
                 <div className="tw-hidden md:tw-flex tw-items-center tw-gap-8">
                   <div className="tw-cursor-pointer">How it works</div>
